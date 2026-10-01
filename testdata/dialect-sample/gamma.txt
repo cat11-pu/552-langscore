@@ -1,0 +1,4 @@
+Release notes
+=============
+Fixed a crash on startup
+Improved the loader

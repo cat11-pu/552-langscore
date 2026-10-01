@@ -1,0 +1,12 @@
+// +build linux
+//go:generate stringer
+import fmt
+/*
+block note
+*/
+    #note
+def handle(x):
+version: 3
+services: 3
+__END__
+trailing
